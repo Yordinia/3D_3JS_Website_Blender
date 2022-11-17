@@ -14,7 +14,8 @@
 
 ## Deployment
 
-Here's the live preview. [Click here](https://yordinia.github.io/ecomerce-electronics.github.io/)
+> Used Github pages,
+> Here's the live preview. [Click here](https://yordinia.github.io/ecomerce-electronics.github.io/)
 
 ## Authors
 
