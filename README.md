@@ -6,4 +6,4 @@
 
 ## Deployment
 
-Click here for a live preview. [XXX]()
+Click here for a live preview. [XXX](https://yordinia.github.io/ecomerce-electronics.github.io/)
