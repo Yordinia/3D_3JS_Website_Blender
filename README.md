@@ -1,8 +1,13 @@
 # Ecomerce-electronics
 
-## Desctiption
+## Description
 
 * This is a repo for setting up a web based ecomerce system, displaying electronic devices and promote sale.
+
+## Deployment
+
+> Used Github pages.
+> > Here's the live preview. [Click here](https://yordinia.github.io/ecomerce-electronics.github.io/)
 
 ## More detailed information
   [Click here](https://docs.google.com/document/d/1WIJcfQERD-vmRIlW7q_-c3ZdjaiQwOEcFm1GJOZ-9To/edit?usp=sharing) 
@@ -11,11 +16,6 @@
 
 * Figma, for design
 * Bootstrap
-
-## Deployment
-
-> Used Github pages,
-> Here's the live preview. [Click here](https://yordinia.github.io/ecomerce-electronics.github.io/)
 
 ## Acknowledgments
 
