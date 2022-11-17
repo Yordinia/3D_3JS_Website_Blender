@@ -17,6 +17,10 @@
 > Used Github pages,
 > Here's the live preview. [Click here](https://yordinia.github.io/ecomerce-electronics.github.io/)
 
+## Acknowledgments
+
+- 🤝 Microverse
+
 ## Authors
 
 👤 Yordanos Temesgen
@@ -35,9 +39,7 @@
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
 
-- 🤝 Microverse
 
 ## 📝 License
  
