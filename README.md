@@ -6,8 +6,8 @@
 
 ## Frameworks we will use
 
+* Figma, for design
 * Bootstrap
-*  . .
 
 ## Deployment
 
