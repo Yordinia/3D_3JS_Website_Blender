@@ -4,6 +4,8 @@
 
 * This is a repo for setting up a web based ecomerce system, displaying electronic devices and promote sale.
 
+## [Click here](https://docs.google.com/document/d/1WIJcfQERD-vmRIlW7q_-c3ZdjaiQwOEcFm1GJOZ-9To/edit?usp=sharing) for a more detailed information
+
 ## Frameworks we will use
 
 * Figma, for design
