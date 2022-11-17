@@ -2,7 +2,12 @@
 
 ## Desctiption
 
-* This is a repo for setting up a web based ecomerce system for showing electronic devices. [Try Outs]
+* This is a repo for setting up a web based ecomerce system, displaying electronic devices and promote sale.
+
+## Frameworks we will use
+
+* Bootstrap
+*  . .
 
 ## Deployment
 
