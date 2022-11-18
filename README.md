@@ -1,5 +1,4 @@
-# Ecomerce-electronics   [Click here](https://docs.google.com/document/d/1WIJcfQERD-vmRIlW7q_-c3ZdjaiQwOEcFm1GJOZ-9To/edit?usp=sharing) 
-
+# Ecomerce-electronics   [Document abou the project](https://docs.google.com/document/d/1WIJcfQERD-vmRIlW7q_-c3ZdjaiQwOEcFm1GJOZ-9To/edit?usp=sharing) 
 
 ## Description
 
