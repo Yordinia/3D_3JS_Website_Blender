@@ -1,4 +1,5 @@
-# Ecomerce-electronics
+# Ecomerce-electronics   [Click here](https://docs.google.com/document/d/1WIJcfQERD-vmRIlW7q_-c3ZdjaiQwOEcFm1GJOZ-9To/edit?usp=sharing) 
+
 
 ## Description
 
@@ -8,10 +9,11 @@
 
 > Used Github pages.
 > > Here's the live preview. 
-> > > [Display electronic e-comerce website](https://yordinia.github.io/ecomerce-electronics.github.io/)
+> > > # [Display electronic e-comerce website](https://yordinia.github.io/ecomerce-electronics.github.io/)
 
 ## More detailed information
-  [Click here](https://docs.google.com/document/d/1WIJcfQERD-vmRIlW7q_-c3ZdjaiQwOEcFm1GJOZ-9To/edit?usp=sharing) 
+
+[Click here](https://docs.google.com/document/d/1WIJcfQERD-vmRIlW7q_-c3ZdjaiQwOEcFm1GJOZ-9To/edit?usp=sharing) 
 
 ## Frameworks we will use
 
