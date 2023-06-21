@@ -1,4 +1,4 @@
-# Ecomerce-electronics   [Document abou the project](https://docs.google.com/document/d/1WIJcfQERD-vmRIlW7q_-c3ZdjaiQwOEcFm1GJOZ-9To/edit?usp=sharing) 
+# 3JS Website   [Document abou the project](https://docs.google.com/document/d/1WIJcfQERD-vmRIlW7q_-c3ZdjaiQwOEcFm1GJOZ-9To/edit?usp=sharing) 
 
 ## Description
 
